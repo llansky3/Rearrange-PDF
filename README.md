@@ -21,10 +21,10 @@ Processing file: ./example/example.pdf
 ┻
 ```
 And to illustrate what is does graphically:<br>
-<u>Input PDF:</u>
+<u>Input PDF:</u><br>
 ![Example Input](example/Example-Screenshot-Input.png "Example Input")
 <br>
-<u>Output PDF:</u>
+<u>Output PDF:</u><br>
 ![Example Output](example/Example-Screenshot-Output.png "Example Output")
 <br>
 So then if you fold and stack the pages together you will have a A5 book.
